@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Ícone de calendário</title>
+  <g fill="none" stroke="#919397" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="20" y="25" width="88" height="83" rx="7"/>
+    <path d="M20 46h88M39 17v18M89 17v18"/>
+  </g>
+  <g fill="#919397">
+    <rect x="38" y="58" width="8" height="8" rx="2"/>
+    <rect x="60" y="58" width="8" height="8" rx="2"/>
+    <rect x="82" y="58" width="8" height="8" rx="2"/>
+    <rect x="38" y="76" width="8" height="8" rx="2"/>
+    <rect x="60" y="76" width="8" height="8" rx="2"/>
+    <rect x="82" y="76" width="8" height="8" rx="2"/>
+    <rect x="38" y="94" width="8" height="8" rx="2"/>
+    <rect x="60" y="94" width="8" height="8" rx="2"/>
+    <rect x="82" y="94" width="8" height="8" rx="2"/>
+  </g>
+</svg>
